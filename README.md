@@ -22,11 +22,11 @@ Achieved first class with an average of 80.94%.
 Achieved first class with an average of 76.32%.
 
 #### Major CW modules:
-- [M3C High Performance Computing](https://github.com/tudortrita/M3C-High-Performance-Computing) (79%):
-- [M3SC Scientific Computation](https://github.com/tudortrita/M3SC-Scientific-Computing) (85%):
+- [M3C High Performance Computing](https://github.com/tudortrita/M3C-High-Performance-Computing) (79%)
+- [M3SC Scientific Computation](https://github.com/tudortrita/M3SC-Scientific-Computing) (85%)
 
 #### Minor CW modules:
-- [M3A29 Theory of Complex Systems](https://github.com/tudortrita/Imperial-College/tree/master/M3A29-Theory-of-Complex-Systems) (72%):
-- [M3S2 Statistical Modelling II](https://github.com/tudortrita/Imperial-College/tree/master/M3S2-Statistical-Modelling-II) (61%):
-- [M3S8 Time Series](https://github.com/tudortrita/Imperial-College/tree/master/M3S8-Time-Series) (80%):
-- [M3S14 Survival Analysis](https://github.com/tudortrita/Imperial-College/tree/master/M3S14-Survival-Analysis) (76%):
+- [M3A29 Theory of Complex Systems](https://github.com/tudortrita/Imperial-College/tree/master/M3A29-Theory-of-Complex-Systems) (72%)
+- [M3S2 Statistical Modelling II](https://github.com/tudortrita/Imperial-College/tree/master/M3S2-Statistical-Modelling-II) (61%)
+- [M3S8 Time Series](https://github.com/tudortrita/Imperial-College/tree/master/M3S8-Time-Series) (80%)
+- [M3S14 Survival Analysis](https://github.com/tudortrita/Imperial-College/tree/master/M3S14-Survival-Analysis) (76%)
